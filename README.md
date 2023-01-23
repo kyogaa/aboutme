@@ -1,4 +1,4 @@
-# about me
+
 <!doctype html>
 <html lang="en">
 <head>
@@ -10,7 +10,7 @@
 <a href="portfolio.html">Portfolio</a>
 <a href="https://kyogaa.github.io/aboutme/">About Me</a>
 <h1>This is all about me!</h1>
-<h2>I enjoy playing and watching soccer</h2>
+<div style="text-align:I enjoy playing and watching soccer</h2>
 <center>
 <img src="images/DSC_0124.jpg" height="300">
 </center>
